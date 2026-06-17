@@ -1,4 +1,4 @@
-# 🐍 Python Foundation Kursi
+# 🐍 Python Foundation Intensive Course
 
 > **Noldan — mustahkam poydevorgacha.** Dasturlash olamiga ishonchli birinchi qadamingizni qo'ying.
 
@@ -79,11 +79,11 @@ Quyida 11 ta modul oson'dan murakkabga qarab, mantiqiy ketma-ketlikda tuzilgan. 
 > *Maqsad: ish muhitini sozlash va birinchi dasturni yozish.*
 
 - [ ] Dasturlash nima va kompyuter qanday "o'ylaydi"
-- [ ] **uv** bilan Python o'rnatish va versiyalarni boshqarish (zamonaviy, tez vosita)
 - [ ] VSCode o'rnatish va sozlash (extensions, sozlamalar)
 - [ ] Terminal / CLI asoslari (`cd`, `ls`, `mkdir`, fayl boshqarish)
 - [ ] Birinchi dastur — "Hello, World!"
 - [ ] `print()` va `input()` bilan ishlash
+- [ ] github ga kodlarni yuklash
 
 📅 **2 dars**
 
@@ -99,7 +99,7 @@ Quyida 11 ta modul oson'dan murakkabga qarab, mantiqiy ketma-ketlikda tuzilgan. 
 - [ ] f-strings bilan matnni formatlash
 - [ ] Kommentariyalar va kodni o'qiluvchan qilish
 
-📅 **3 dars**
+📅 **2 dars**
 
 ---
 
@@ -113,7 +113,7 @@ Quyida 11 ta modul oson'dan murakkabga qarab, mantiqiy ketma-ketlikda tuzilgan. 
 - [ ] `break`, `continue`, `pass`
 - [ ] Nested loops (ichma-ich sikllar)
 
-📅 **3 dars**
+📅 **2 dars**
 
 ---
 
@@ -151,12 +151,15 @@ Quyida 11 ta modul oson'dan murakkabga qarab, mantiqiy ketma-ketlikda tuzilgan. 
 
 - [ ] Import va modullar tizimi
 - [ ] Standart kutubxonalar: `math`, `random`, `datetime`, `os`, `sys`
+- [ ] **Environment Variable** — `python-dotenv`, `python-decouple`
 - [ ] **Virtual environment (venv)** — nima va nega kerak
 - [ ] **uv** bilan loyiha boshqaruvi: `uv init`, `uv add`, `uv run`
-- [ ] **pyproject.toml** va dependency management
+- [ ] **requirements.txt, pyproject.toml** va dependency management
 - [ ] `pip` (klassik usul bilan tanishish)
+- [ ] **`.gitignore`** bilan maxfiy ma'lumotni (token, parol) himoyalash
 
-📅 **2 dars**
+
+📅 **3 dars**
 
 ---
 
@@ -181,8 +184,6 @@ Quyida 11 ta modul oson'dan murakkabga qarab, mantiqiy ketma-ketlikda tuzilgan. 
 - [ ] Context manager (`with`) bilan xavfsiz ishlash
 - [ ] **JSON** bilan ishlash (`json` moduli)
 - [ ] CSV fayllar bilan tanishish
-- [ ] **`.env` va environment variables** (`python-dotenv`)
-- [ ] **`.gitignore`** bilan maxfiy ma'lumotni (token, parol) himoyalash
 
 📅 **3 dars**
 
@@ -229,7 +230,7 @@ Quyida 11 ta modul oson'dan murakkabga qarab, mantiqiy ketma-ketlikda tuzilgan. 
 - [ ] 📦 **Loyiha 2:** Expense Tracker / To-Do dasturi
 - [ ] Loyihalarni GitHub'ga joylash (portfolio)
 
-📅 **2 dars**
+📅 **3 dars**
 
 ---
 
@@ -249,24 +250,3 @@ Har bir loyiha GitHub profilingizda joylashadi — bu sizning birinchi **portfol
 ## 🚀 Keyingi qadam
 
 Foundation'ni muvaffaqiyatli yakunlagach, siz **Backend Development** kursiga to'liq tayyor bo'lasiz. U yerda HTTP, Telegram bot, SQL, PostgreSQL, SQLAlchemy, FastAPI, Django, DRF, Docker, Redis, Celery va boshqa professional texnologiyalarni o'rganasiz.
-
----
-
-## 👨‍🏫 Murabbiy haqida
-
-**Diyorbek** — 3 yillik tajribaga ega **middle backend dasturchi**.
-
-- 💼 Hozirda **EasyBooking** kompaniyasida ishlaydi
-- 🏢 Avval **SilkHub** va **KNG Software Technologies**'da faoliyat yuritgan
-- 🎓 **CodeSchool**'da dars berishni boshlab, keyin O'zbekistondagi **1-raqamli IT markaz — Najot Ta'lim**'da davom ettirgan
-
-Har kuni production'da ishlatiladigan amaliy yondashuvlar sodda tilda o'rgatiladi.
-
----
-
-## 📝 Ro'yxatdan o'tish
-
-🔗 **Forma:** https://forms.gle/BUJ85iMyMjero2mx9
-📢 **Telegram kanal:** [@jumanovdiyorbek](https://t.me/jumanovdiyorbek)
-
-> 💪 **Bu yozni behuda o'tkazmang — birga kuchli dasturchi bo'lib chiqamiz!** 🔥
